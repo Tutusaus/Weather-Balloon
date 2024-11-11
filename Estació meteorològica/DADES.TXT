@@ -1,0 +1,432 @@
+Temperatura externa: 24.31*C
+Temperatura interna: 23.70*C
+Humitat interna: 63.00%
+Pressio interna: 99024 Pa
+Altitud: 192.85 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.51 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.31*C
+Temperatura interna: 23.70*C
+Humitat interna: 63.00%
+Pressio interna: 99025 Pa
+Altitud: 192.94 metres
+Pressio al nivell del mar: 99026 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.31*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99019 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99028 Pa
+Altitud real: 207.26 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.31*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99024 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99024 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.31*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99019 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99024 Pa
+Altitud real: 207.51 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.31*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99024 Pa
+Altitud: 193.28 metres
+Pressio al nivell del mar: 99023 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.25*C
+Temperatura interna: 23.70*C
+Humitat interna: 63.00%
+Pressio interna: 99031 Pa
+Altitud: 192.77 metres
+Pressio al nivell del mar: 99029 Pa
+Altitud real: 207.09 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.25*C
+Temperatura interna: 23.70*C
+Humitat interna: 63.00%
+Pressio interna: 99030 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.25*C
+Temperatura interna: 23.70*C
+Humitat interna: 63.00%
+Pressio interna: 99027 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99034 Pa
+Altitud real: 207.68 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.25*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99028 Pa
+Altitud: 192.94 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.25*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99027 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99026 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.19*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99027 Pa
+Altitud: 192.94 metres
+Pressio al nivell del mar: 99027 Pa
+Altitud real: 207.51 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.25*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99027 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99028 Pa
+Altitud real: 208.11 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.19*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99026 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99029 Pa
+Altitud real: 207.26 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.19*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99019 Pa
+Altitud: 192.94 metres
+Pressio al nivell del mar: 99023 Pa
+Altitud real: 207.68 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.19*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99024 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99029 Pa
+Altitud real: 207.60 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.19*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99027 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.51 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.19*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99027 Pa
+Altitud: 192.94 metres
+Pressio al nivell del mar: 99031 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.12*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99025 Pa
+Altitud: 193.19 metres
+Pressio al nivell del mar: 99026 Pa
+Altitud real: 207.68 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.12*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99029 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99030 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.12*C
+Temperatura interna: 23.60*C
+Humitat interna: 63.00%
+Pressio interna: 99028 Pa
+Altitud: 192.77 metres
+Pressio al nivell del mar: 99026 Pa
+Altitud real: 208.02 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.12*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99029 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99028 Pa
+Altitud real: 208.02 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.12*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99021 Pa
+Altitud: 192.94 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.94 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.12*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99024 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99027 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.06*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99026 Pa
+Altitud: 193.28 metres
+Pressio al nivell del mar: 99032 Pa
+Altitud real: 207.60 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.06*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99029 Pa
+Altitud: 193.28 metres
+Pressio al nivell del mar: 99032 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.06*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99028 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99035 Pa
+Altitud real: 207.18 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.06*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99027 Pa
+Altitud: 192.77 metres
+Pressio al nivell del mar: 99027 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.06*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99023 Pa
+Altitud: 192.85 metres
+Pressio al nivell del mar: 99027 Pa
+Altitud real: 207.26 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.06*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99022 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99028 Pa
+Altitud real: 207.51 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.00*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99027 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99024 Pa
+Altitud real: 207.34 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.00*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99024 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.26 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.00*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99028 Pa
+Altitud: 192.77 metres
+Pressio al nivell del mar: 99030 Pa
+Altitud real: 207.94 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.00*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99019 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99022 Pa
+Altitud real: 207.60 metres
+---------------------------------------------------------------------
+Temperatura externa: 24.00*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99024 Pa
+Altitud: 193.62 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.68 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.94*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99018 Pa
+Altitud: 193.19 metres
+Pressio al nivell del mar: 99026 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.94*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99025 Pa
+Altitud: 193.19 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.34 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.94*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99025 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99030 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.94*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99026 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99021 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.94*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99023 Pa
+Altitud: 193.19 metres
+Pressio al nivell del mar: 99026 Pa
+Altitud real: 207.34 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.94*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99023 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99023 Pa
+Altitud real: 207.94 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99030 Pa
+Altitud: 192.85 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.68 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99026 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99023 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99020 Pa
+Altitud real: 207.94 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99022 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99023 Pa
+Altitud real: 207.94 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99024 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99024 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99029 Pa
+Altitud: 193.11 metres
+Pressio al nivell del mar: 99027 Pa
+Altitud real: 207.60 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.87*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99023 Pa
+Altitud: 193.45 metres
+Pressio al nivell del mar: 99024 Pa
+Altitud real: 207.43 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.81*C
+Temperatura interna: 23.70*C
+Humitat interna: 62.00%
+Pressio interna: 99027 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 207.85 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.81*C
+Temperatura interna: 23.70*C
+Humitat interna: 62.00%
+Pressio interna: 99026 Pa
+Altitud: 193.02 metres
+Pressio al nivell del mar: 99021 Pa
+Altitud real: 207.77 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.81*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99026 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99028 Pa
+Altitud real: 208.36 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.81*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99023 Pa
+Altitud: 193.36 metres
+Pressio al nivell del mar: 99025 Pa
+Altitud real: 208.11 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.81*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99029 Pa
+Altitud: 193.19 metres
+Pressio al nivell del mar: 99027 Pa
+Altitud real: 207.51 metres
+---------------------------------------------------------------------
+Temperatura externa: 23.81*C
+Temperatura interna: 23.60*C
+Humitat interna: 62.00%
+Pressio interna: 99021 Pa
+Altitud: 193.28 metres
+Pressio al nivell del mar: 99028 Pa
+Altitud real: 207.18 metres
+---------------------------------------------------------------------
