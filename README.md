@@ -54,5 +54,5 @@ This repository contains the software and scripts developed for the **Low-Cost S
 ## Setup Instructions
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/stratospheric-probe.git
-   cd stratospheric-probe
+   git clone https://github.com/Tutusaus/Weather-Balloon.git
+   cd Weather-Balloon
