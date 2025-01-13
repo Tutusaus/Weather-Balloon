@@ -1,7 +1,7 @@
-# Low-Cost Stratospheric Probe Project
+# Low-Cost Weather Balloon Project
 
 ## Overview
-This repository contains the software and scripts developed for the **Low-Cost Stratospheric Probe** project. The project was undertaken to design and deploy a high-altitude weather balloon equipped with sensors and cameras using affordable, open-source hardware and software solutions. The goal is to capture atmospheric data at altitudes up to 30 km and study environmental conditions, with the ability to log data for post-flight analysis.
+This repository contains the software, scripts, images and interviews developed for the **Low-Cost Weather Balloon** project. The project was undertaken to design and deploy a high-altitude weather balloon equipped with sensors and cameras using affordable, open-source hardware and software solutions. The goal is to capture atmospheric data at altitudes up to 30 km and study environmental variables, with the ability to log data for post-flight analysis.
 
 ## Features
 - **Arduino-Based Sensor Suite**:
